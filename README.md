@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego de Sousa Oliveira 👋
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@diegooliveira740?si=XN7mW7J5d1lZ5_wE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegooliveira6186?igsh=MXV0ZWN1MjUxcTZ4Mw==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/infortec191?igsh=MW45Y2VwcmM3bjRoNA==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-oliveira-8210ab225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaOliveira&show_icons=true&theme=radical)
